@@ -3,5 +3,5 @@
   "dsmHost": "yoobic.invisionapp.com",
   "organization": "yoobic",
   "outputDir": ".dsm",
-  "storyPath": "src/**/*.stories.ts"
+  "storyPath": "src/**/*.stories.js"
 }

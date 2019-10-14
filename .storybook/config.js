@@ -1,4 +1,4 @@
-import { configure, addDecorator, addDecorator } from '@storybook/html';
+import { configure, addDecorator, addParameters } from '@storybook/html';
 import { initDsm } from '@invisionapp/dsm-storybook';
 
 // automatically import all files ending in *.stories.js

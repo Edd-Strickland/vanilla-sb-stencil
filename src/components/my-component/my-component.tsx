@@ -27,6 +27,6 @@ export class MyComponent {
   }
 
   render() {
-    return <div>Hi from Invision Support {this.getText()}; And yet... </div>;
+    return <div>Hi from Yoobic {this.getText()}; Or just plain old javascript... </div>;
   }
 }
