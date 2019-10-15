@@ -12,3 +12,5 @@ initDsm({
     addParameters,
     callback: () => configure(loadStories, module)
 });
+
+configure(req, module);
