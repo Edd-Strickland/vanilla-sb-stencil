@@ -15,9 +15,9 @@
     "loader/"
   ],
   "scripts": {
-    "build": "stencil build --docs",
     "build:all": "rm -rf www && rm -rf public && npm run build && npm run storybook:build",
-    "start": "stencil build --dev --watch --serve",
+    "stencil": "stencil build --docs",
+    "stencil:start": "stencil build --dev --watch --serve",
     "storybook": "start-storybook",
     "storybook:build": "build-storybook -s www -c .storybook -o public",
     "poststorybook:build": "node static/post-build.js",
