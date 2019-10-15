@@ -15,7 +15,7 @@
     "loader/"
   ],
   "scripts": {
-    "build:all": "rm -rf www && rm -rf public && npm run build && npm run storybook:build",
+    "build:all": "rm -rf www && rm -rf public && npm run stencil && npm run storybook:build",
     "stencil": "stencil build --docs",
     "stencil:start": "stencil build --dev --watch --serve",
     "storybook": "start-storybook",
