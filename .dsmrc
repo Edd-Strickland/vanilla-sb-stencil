@@ -1,7 +1,0 @@
-{
-  "authToken": "H12KFAVOB",
-  "dsmHost": "yoobic.invisionapp.com",
-  "organization": "yoobic",
-  "outputDir": ".dsm",
-  "storyPath": "src/**/*.stories.js"
-}
