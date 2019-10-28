@@ -30,12 +30,6 @@ After this run storybook:
 npm run storybook
 ```
 
-Push files to DSM:
-
-```bash
-npm run dsm
-```
-
 ## Other commands for this repo include:
 
 Build stencil:
