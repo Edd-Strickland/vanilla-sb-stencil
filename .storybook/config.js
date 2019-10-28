@@ -12,5 +12,9 @@ initDsm({
     addParameters,
     callback: () => configure(loadStories, module)
 });
-
+/**
+ * Required to run locally as well as sending to DSM 
+ * if no local build required comment out. 
+ *  
+ */ 
 configure(req, module);
