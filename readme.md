@@ -18,6 +18,24 @@ Clone the repo
 git clone https://github.com/Edd-Strickland/vanilla-sb-stencil.git
 ```
 
+Then change to the vanilla Storybook/Stencil implementation:
+
+```bash
+git checkout -b vanilla
+```
+
+Change into the base directory:
+
+```bash
+cd vanilla-sb-stencil
+```
+
+Install the modules:
+
+```bash
+npm install
+```
+
 and run a build for the entire repo:
 
 ```bash
