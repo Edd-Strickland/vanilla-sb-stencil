@@ -80,13 +80,13 @@ Reset modules; Deletes and reinstalls node modules:
 npm run reset:modules
 ```
 
+## Test
+
 To run the unit tests for the components, run:
 
 ```bash
 npm test
 ```
-
-## Test
 
 To run tests in watch mode:
 
