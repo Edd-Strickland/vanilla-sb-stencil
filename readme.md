@@ -18,6 +18,12 @@ Clone the repo
 git clone https://github.com/Edd-Strickland/vanilla-sb-stencil.git
 ```
 
+Install the modules:
+
+```bash
+npm install
+```
+
 and run a build for the entire repo:
 
 ```bash
