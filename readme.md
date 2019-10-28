@@ -18,6 +18,12 @@ Clone the repo
 git clone https://github.com/Edd-Strickland/vanilla-sb-stencil.git
 ```
 
+Then change to the HTML Storybook/Stencil implementation:
+
+```bash
+git checkout -b html
+```
+
 Change into the base directory:
 
 ```bash
