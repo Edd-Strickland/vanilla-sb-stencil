@@ -56,18 +56,6 @@ npm run dsm
 
 ## Other commands for this repo include:
 
-Build stencil:
-
-```bash
-npm run stencil
-```
-
-Start stencil directly in serve/watch mode; Useful for ameneding stencil components directly:
-
-```bash
-npm run stencil:start
-```
-
 Run storybook and a stencil build with watch and serve, deleting any previous versions built and will serve locally:
 
 ```bash
@@ -84,26 +72,4 @@ Reset modules; Deletes and reinstalls node modules:
 
 ```bash
 npm run reset:modules
-```
-
-To run the unit tests for the components, run:
-
-```bash
-npm test
-```
-
-## Test
-
-To run tests in watch mode:
-
-```bash
-npm run test.watch
-```
-
-## Generate new components
-
-To generate new Stencil components automagically:
-
-```bash
-npm run generate
 ```
