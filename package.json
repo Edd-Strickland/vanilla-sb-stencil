@@ -34,7 +34,7 @@
     "@invisionapp/dsm-storybook": "0.0.108",
     "@stencil/core": "1.7.4",
     "@storybook/addon-options": "5.2.5",
-    "@storybook/html": "5.2.5",
+    "@storybook/html": "6.5.13",
     "babel-loader": "8.0.6",
     "fs-extra": "8.1.0",
     "npm-run-all": "4.1.5",
